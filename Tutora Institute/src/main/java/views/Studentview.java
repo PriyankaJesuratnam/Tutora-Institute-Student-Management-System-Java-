@@ -7,7 +7,7 @@ package views;
 
 /**
  *
- * @author YATHU
+ * @author Priyanka
  */
 public class Studentview extends javax.swing.JFrame {
 
