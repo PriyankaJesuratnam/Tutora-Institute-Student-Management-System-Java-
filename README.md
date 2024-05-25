@@ -1,8 +1,6 @@
 # Tutora-Institute-Student-Management-System-Java-
 Tutora Institute Student Management System (Java) 
 
-# Tutora Institute Student Management System
-
 ## Overview
 
 The Tutora Institute Student Management System is a comprehensive Java-based application designed to manage various aspects of student and employee interactions within an educational institute. The system includes distinct functionalities for students and employees, allowing for efficient management of courses, inquiries, registrations, and technical issues.
