@@ -7,7 +7,7 @@ package views;
 
 /**
  *
- * @author YATHU
+ * @author Priyanka
  */
 public class Coursedetails extends javax.swing.JFrame {
 
