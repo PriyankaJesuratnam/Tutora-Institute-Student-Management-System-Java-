@@ -7,7 +7,7 @@ package views;
 
 /**
  *
- * @author YATHU
+ * @author Priyanka
  */
 public class Medicalview extends javax.swing.JFrame {
 
